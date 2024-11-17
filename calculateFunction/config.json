@@ -1,0 +1,8 @@
+{
+    "parameters": {
+        "end": 10.0,   // b
+        "iterator": 5, // n
+        "start": 1.0,  // a
+        "step": 1      // h
+    }
+}
