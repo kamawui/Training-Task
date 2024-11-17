@@ -149,6 +149,7 @@ int main()
 			setParametersInConfiguration(a, b, h, n);
 		}
 
+
 		while (true)                                                     // restart 
 		{
 			std::cout << "Enter \"1\" to view results in console, " <<
